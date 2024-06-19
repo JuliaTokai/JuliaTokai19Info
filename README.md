@@ -54,6 +54,7 @@ Note:
 
 ## 本日の発表
 
++ [antimon2](https://github.com/antimon2): [Julia API クイズ (仮)]()
 + [たつおか](https://github.com/f-ttok): [TBA]()
 
 ---
