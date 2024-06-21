@@ -56,6 +56,7 @@ Note:
 
 + [antimon2](https://github.com/antimon2): [Julia API クイズ (仮)]()
 + [たつおか](https://github.com/f-ttok): [TBA]()
++ [忙しい人のための C++/Julia 連携](https://atelierarith.github.io/cxx_et_julia/)
 
 ---
 
