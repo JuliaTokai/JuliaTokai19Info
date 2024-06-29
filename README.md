@@ -55,7 +55,7 @@ Note:
 ## 本日の発表
 
 + [antimon2](https://github.com/antimon2): [Julia API クイズ (仮)]()
-+ [たつおか](https://github.com/f-ttok): [LinearSolve.jlの紹介]()
++ たつおか: LinearSolve.jlの紹介
 + [忙しい人のための C++/Julia 連携](https://atelierarith.github.io/cxx_et_julia/)
 + hyrodium: 2次補間法を Juliaで実装してみた
 + dannchu: 6x6の正方形を2つの合同な図形に分割してみよう！
